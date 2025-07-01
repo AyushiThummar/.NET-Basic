@@ -12,6 +12,8 @@ namespace Ayushi_BD
         {
             Console.WriteLine("This is my program in C# .");
             Console.Write("WriteLine print next statement into new line.");
+
+            Console.ReadLine();
         }
     }
 }
