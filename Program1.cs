@@ -11,7 +11,7 @@ namespace Ayushi_BD
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter the number 1 : ");
-            int n1 = Convert.ToInt32(Console.ReadLine());   
+            int n1 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Enter the number 2 : ");
             int n2 = int.Parse(Console.ReadLine());
