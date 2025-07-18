@@ -23,6 +23,7 @@ namespace Ayushi_BD
             //{
             //    Console.Write(i + " ");
             //}
+            Console.Read();
         }
     }
 }
