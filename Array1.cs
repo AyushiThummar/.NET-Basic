@@ -21,7 +21,7 @@ namespace Ayushi_BD
             //Console.WriteLine("Sorted array : ");
             //foreach (int i in a)
             //{
-            //    Console.Write(i+" ");
+            //    Console.Write(i + " ");
             //}
         }
     }
